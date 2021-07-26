@@ -1,0 +1,13 @@
+Census year,Block ID,Property ID,Base property ID,CLUE small area,Trading name,Industry (ANZSIC4) code,Industry (ANZSIC4) description,x coordinate,y coordinate,Location
+2018,113,110689,108118,Melbourne (CBD),Amott Quality Meats,4121,"Fresh Meat, Fish and Poultry Retailing",144.95767,-37.80762,"(-37.80762482, 144.9576703)"
+2018,113,110689,108118,Melbourne (CBD),QV Meats,4121,"Fresh Meat, Fish and Poultry Retailing",144.95767,-37.80762,"(-37.80 62482, 144.9576703)"
+2018,113,110689,108118,Melbourne (CBD),Thanh Hung Butcher,4121,"Fresh Meat, Fish and Poultry Retailing",144.95767,-37.80762,"(-37.80762482, 144.9576703)"
+2018,113,110691,108118,Melbourne (CBD),The French Shop,4129,Other Specialised Food Retailing,144.95767,-37.80762,"(-37.80762482, 144.9576703)"
+2018,113,110691,108118,Melbourne (CBD),The Traditional Pasta Shop,4129,Other Specialised Food Retailing,144.95767,-37.80762,"(-37.80762482, 144.9576703)"
+2018,113,110691,108118,Melbourne (CBD),Polish Deli,4129,Other Specialised Food Retailing,144.95767,-37.80762,"(-37.80762482, 144.9576703)"
+2018,113,110691,108118,Melbourne (CBD),Gewurzhaus Herb & Spice Merchants,4129,Other Specialised Food Retailing,144.95767,-37.80762,"(-37.80762482, 144.9576703)"
+2018,113,110691,108118,Melbourne (CBD),The Land Of Soy & Honey,4129,Other Specialised Food Retailing,144.95767,-37.80762,"(-37.80762482, 144.9576703)"
+2018,113,110691,108118,Melbourne (CBD),Curds & Whey,4129,Other Specialised Food Retailing,144.95767,-37.80762,"(-37.80762482, 144.9576703)"
+2018,113,110691,108118,Melbourne (CBD),The Epicurean,4129,Other Specialised Food Retailing,144.95767,-37.80762,"(-37.80762482, 144.9576703)"
+2018,113,110691,108118,Melbourne (CBD),Big Vic Deli,4129,Other Specialised Food Retailing,144.95767,-37.80762,"(-37.80762482, 144.9576703)"
+2018,113,110688,108118,Melbourne (CBD),Drums Cafe,4512,Takeaway Food Services,144.95767,-37.80762,"(-37.80762482, 144.9576703)"

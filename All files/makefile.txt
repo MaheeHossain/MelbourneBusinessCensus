@@ -1,0 +1,16 @@
+all: dict
+
+dict: main.c linkedlist.o readdata.o findkey.o
+	gcc -g -o dict main.c linkedlist.o readdata.o findkey.o
+
+linkedlist.o : linkedlist.c linkedlist.h
+	gcc -g -o linkedlist.o -c -Wall linkedlist.c
+
+readdata.o : readdata.c readdata.h
+	gcc -g -o readdata.o -c -Wall readdata.c
+
+findkey.o : findkey.c findkey.h
+	gcc -g -o findkey.o -c -Wall findkey.c
+
+run: dict
+	./dict data.csv output.txt
